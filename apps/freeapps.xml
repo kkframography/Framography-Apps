@@ -1,9 +1,9 @@
 <photographyapps>  
 
-<photography>
-<apptitle></apptitle>
-<applink></applink>
-<appicon></appicon>
+ <photography>
+<apptitle>Frames</apptitle>
+<applink>market://details?id=com.sample.ganeshchaturthiphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/ambedkarflad.png</appicon>
 </photography>
    
 </photographyapps>
