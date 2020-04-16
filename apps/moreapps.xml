@@ -1,16 +1,16 @@
 <photographyapps>  
 
 
-  <photography>
-<apptitle>Ugadi Photo Frames</apptitle>
-<applink>market://details?id=com.kkframography.holiphotoframes</applink>
+ <photography>
+<apptitle>Ugadi</apptitle>
+<applink>market://details?id=com.kkframography.ugadiphotoframes</applink>
 <appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/ugadi.png</appicon>
 </photography>
-     <photography>
-<apptitle>RamNavami Photo Frames</apptitle>
-<applink>market://details?id=com.kkframography.holiphotoframes</applink>
+   
+<photography>
+<apptitle>RamaNavami</apptitle>
+<applink>market://details?id=com.kkframography.ramanavamiphotoframes</applink>
 <appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/ramnavami.PNG</appicon>
 </photography>
-    
    
 </photographyapps>
