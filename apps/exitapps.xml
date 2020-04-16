@@ -1,13 +1,14 @@
 <photographyapps>  
-<photography>
+ <photography>
 <apptitle>Ugadi</apptitle>
 <applink>market://details?id=com.kkframography.ugadiphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/ambedkarflad.png</appicon>
+<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/ugadi.png</appicon>
 </photography>
-   <photography>
-<apptitle>Ugadi</apptitle>
-<applink>market://details?id=com.kkframography.ugadiphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/ambedkarflad.png</appicon>
+   
+<photography>
+<apptitle>RamaNavami</apptitle>
+<applink>market://details?id=com.kkframography.ramanavamiphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/ramnavami.PNG</appicon>
 </photography>
    <photography>
 <apptitle>Ugadi</apptitle>
