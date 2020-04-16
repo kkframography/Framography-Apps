@@ -1,9 +1,19 @@
 <photographyapps>  
 
- <photography>
-<apptitle></apptitle>
-<applink></applink>
-<appicon></appicon>
+  <photography>
+<apptitle>One Photo Frames</apptitle>
+<applink>market://details?id=com.kkframography.holiphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/ambedkarflad.png</appicon>
+</photography>
+   <photography>
+<apptitle>Two Photo Frames</apptitle>
+<applink>market://details?id=com.kkframography.holiphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/ambedkarflad.png</appicon>
+</photography>
+   <photography>
+<apptitle>Three Photo Frames</apptitle>
+<applink>market://details?id=com.kkframography.holiphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/ambedkarflad.png</appicon>
 </photography>
    
 </photographyapps>
