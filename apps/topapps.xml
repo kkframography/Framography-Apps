@@ -1,9 +1,14 @@
 <photographyapps>  
 
-   <photography>
-<apptitle>One Photo Frames</apptitle>
+ <photography>
+<apptitle>Holi Photo Frames</apptitle>
 <applink>market://details?id=com.kkframography.holiphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/ambedkarflad.png</appicon>
+<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/holi.PNG/appicon>
+</photography>
+<photography>
+<apptitle>Vishu Photo Frames</apptitle>
+<applink>market://details?id=com.kkframography.holiphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/vishu.PNG</appicon>
 </photography>
    
    
