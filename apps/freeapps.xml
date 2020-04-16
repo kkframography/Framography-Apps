@@ -1,22 +1,24 @@
 <photographyapps>  
+ <photography>
+<apptitle>Ugadi</apptitle>
+<applink>market://details?id=com.kkframography.ugadiphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/ugadi.png</appicon>
+</photography>
+   
 <photography>
-<apptitle>Ugadi</apptitle>
-<applink>market://details?id=com.kkframography.ugadiphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/ambedkarflad.png</appicon>
+<apptitle>RamaNavami</apptitle>
+<applink>market://details?id=com.kkframography.ramanavamiphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/ramnavami.PNG</appicon>
 </photography>
-   <photography>
-<apptitle>Ugadi</apptitle>
-<applink>market://details?id=com.kkframography.ugadiphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/ambedkarflad.png</appicon>
+    <photography>
+<apptitle>Holi</apptitle>
+<applink>market://details?id=com.kkframography.holiphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/holi.PNG</appicon>
 </photography>
-   <photography>
-<apptitle>Ugadi</apptitle>
-<applink>market://details?id=com.kkframography.ugadiphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/ambedkarflad.png</appicon>
-</photography>
-   <photography>
-<apptitle>Ugadi</apptitle>
-<applink>market://details?id=com.kkframography.ugadiphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/ambedkarflad.png</appicon>
+   
+<photography>
+<apptitle>Vishu</apptitle>
+<applink>market://details?id=com.kkframography.vishuphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/vishu.PNG</appicon>
 </photography>
 </photographyapps>
