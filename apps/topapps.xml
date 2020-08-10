@@ -1,15 +1,15 @@
 <photographyapps>  
 
 <photography>
-<apptitle>Holi</apptitle>
-<applink>market://details?id=com.kkframography.holiphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/holi.PNG</appicon>
+<apptitle>Janmashtami</apptitle>
+<applink>market://details?id=com.kkframography.janmashtamiphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/janmashicon.PNG</appicon>
 </photography>
    
 <photography>
-<apptitle>Vishu</apptitle>
-<applink>market://details?id=com.kkframography.vishuphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/vishu.PNG</appicon>
+<apptitle>Ganesh Chaturthi</apptitle>
+<applink>market://details?id=com.kkframography.ganeshchaturthiphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/ganeshicon.PNG</appicon>
 </photography>
    
    
