@@ -1,16 +1,14 @@
 <photographyapps>  
 
 <photography>
-<apptitle>Lord Ganesh</apptitle>
-<applink>market://details?id=com.kkframography.lordganeshphotoframe</applink>
-<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/lordganeshicon.PNG</appicon>
+<apptitle>Diwali</apptitle>
+<applink>market://details?id=com.kkframography.diwaliphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/diwali.PNG</appicon>
 </photography>
-   
 <photography>
-<apptitle>Ganesh Chaturthi</apptitle>
-<applink>market://details?id=com.kkframography.ganeshchaturthiphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/ganeshicon.PNG</appicon>
+<apptitle>Deepavali</apptitle>
+<applink>market://details?id=com.kkframography.deepavaliphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/deepavali.PNG</appicon>
 </photography>
-   
    
 </photographyapps>
