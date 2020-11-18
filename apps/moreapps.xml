@@ -1,14 +1,15 @@
 <photographyapps>  
 
-<photography>
-<apptitle>Deepavali</apptitle>
-<applink>market://details?id=com.kkframography.deepavaliphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/deepavali.PNG</appicon>
+ <photography>
+<apptitle>Ambedkar</apptitle>
+<applink>market://details?id=com.kkframography.ambedkarphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/ambedkaricon.PNG</appicon>
 </photography>
+   
 <photography>
-<apptitle>Diwali</apptitle>
-<applink>market://details?id=com.kkframography.diwaliphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/diwali.PNG</appicon>
+<apptitle>Buddha</apptitle>
+<applink>market://details?id=com.kkframography.buddhaphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/buddha.png</appicon>
 </photography>
  
 </photographyapps>
