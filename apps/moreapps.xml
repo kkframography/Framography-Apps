@@ -1,15 +1,14 @@
 <photographyapps>  
 
  <photography>
-<apptitle>Ambedkar</apptitle>
-<applink>market://details?id=com.kkframography.ambedkarphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/ambedkaricon.PNG</appicon>
+<apptitle>Christmas</apptitle>
+<applink>market://details?id=com.kkframography.christmasphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/kkchristmasicon.PNG</appicon>
 </photography>
-   
 <photography>
-<apptitle>Buddha</apptitle>
-<applink>market://details?id=com.kkframography.buddhaphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/buddha.png</appicon>
+<apptitle>New Year</apptitle>
+<applink>market://details?id=com.kkframography.newyearphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/kknewyearicon.PNG</appicon>
 </photography>
  
 </photographyapps>
