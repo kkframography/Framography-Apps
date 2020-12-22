@@ -1,14 +1,14 @@
 <photographyapps>  
  
 <photography>
-<apptitle>Chhath Puja</apptitle>
-<applink>market://details?id=com.kkframography.chhathpujaphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/chhathpuja.PNG</appicon>
+<apptitle>Christmas</apptitle>
+<applink>market://details?id=com.kkframography.christmasphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/kkchristmasicon.PNG</appicon>
 </photography>
 <photography>
-<apptitle>Vishu</apptitle>
-<applink>market://details?id=com.kkframography.vishuphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/vishu.PNG</appicon>
+<apptitle>New Year</apptitle>
+<applink>market://details?id=com.kkframography.newyearphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/kknewyearicon.PNG</appicon>
 </photography>
   <photography>
 <apptitle>Ambedkar</apptitle>
