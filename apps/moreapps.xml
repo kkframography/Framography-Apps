@@ -1,14 +1,15 @@
 <photographyapps>  
 
- <photography>
-<apptitle>Christmas</apptitle>
-<applink>market://details?id=com.kkframography.christmasphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/kkchristmasicon.PNG</appicon>
-</photography>
 <photography>
-<apptitle>New Year</apptitle>
-<applink>market://details?id=com.kkframography.newyearphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/kknewyearicon.PNG</appicon>
+<apptitle>Sankranti</apptitle>
+<applink>market://details?id=com.kkframography.sankrantiphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/kksankranti.PNG</appicon>
+</photography>
+ 
+<photography>
+<apptitle>Pongal</apptitle>
+<applink>market://details?id=com.kkframography.pongalphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/kkpongal.PNG</appicon>
 </photography>
  
 </photographyapps>
