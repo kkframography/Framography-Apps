@@ -1,12 +1,6 @@
 <photographyapps>  
 
 <photography>
-<apptitle>Vivekananda</apptitle>
-<applink>market://details?id=com.kkframography.vivekanandaphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/vivekicon.PNG</appicon>
-</photography
-   
-<photography>
 <apptitle>Sankranti</apptitle>
 <applink>market://details?id=com.kkframography.sankrantiphotoframes</applink>
 <appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/kksankranti.PNG</appicon>
@@ -17,4 +11,10 @@
 <applink>market://details?id=com.kkframography.pongalphotoframes</applink>
 <appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/kkpongal.PNG</appicon>
 </photography>
+ 
+<photography>
+<apptitle>Republic Day</apptitle>
+<applink>market://details?id=com.kkframography.republicdayphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/republicday.PNG</appicon>
+</photography>  
 </photographyapps>
