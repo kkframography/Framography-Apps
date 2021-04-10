@@ -1,20 +1,15 @@
 <photographyapps>  
 
 <photography>
-<apptitle>Sankranti</apptitle>
-<applink>market://details?id=com.kkframography.sankrantiphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/kksankranti.PNG</appicon>
+<apptitle>Ugadi</apptitle>
+<applink>market://details?id=com.kkframography.ugadiphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/ugadi.png</appicon>
 </photography>
  
 <photography>
-<apptitle>Pongal</apptitle>
-<applink>market://details?id=com.kkframography.pongalphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/kkpongal.PNG</appicon>
+<apptitle>Vishu</apptitle>
+<applink>market://details?id=com.kkframography.vishuphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/vishu.PNG</appicon>
 </photography>
  
-<photography>
-<apptitle>Republic Day</apptitle>
-<applink>market://details?id=com.kkframography.republicdayphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/kkframography/Framography-Apps/master/icons/republicday.PNG</appicon>
-</photography>  
 </photographyapps>
